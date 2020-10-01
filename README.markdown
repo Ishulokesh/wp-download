@@ -1,4 +1,4 @@
-# wp-download
+#Wiki Downloader 
 
 It is a cumbersome task to administer local Wikipedia databases,
 especially if you need access to multiple language versions of
